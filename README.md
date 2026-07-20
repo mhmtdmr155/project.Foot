@@ -2,6 +2,7 @@
 
 <div align="center">
 
+![First Project](https://img.shields.io/badge/Milestone-My_First_Project-FF69B4?style=for-the-badge&logo=rocket)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -12,11 +13,24 @@
 
 ---
 
-## 📌 Hakkında / About
+## 🚀 İlk Web Projem / My First Web Project
 
-**project.Foot**, modern ve duyarlı (responsive) bir yemek ve tarif sergileme web sitesidir. Kullanıcılara estetik bir lezzet galerisi, kategorize edilmiş yemek kartları, interaktif yan menü (sidebar) ve geliştirici hakkında bilgi sunan kişisel bir portfolyo entegrasyonu barındırır.
+🌟 **project.Foot**, Front-End geliştirme serüvenimdeki **ilk web geliştirme projemdir!** 
 
-> **project.Foot** is a sleek and responsive food showcase and culinary portfolio website built using core web technologies. It features an interactive grid layout, side navigation drawer, blog/tags footer, and developer portfolio introduction.
+Web tasarımının ve ön yüz geliştirmenin temel taşları olan **HTML5**, **CSS3** ve **JavaScript** teknolojilerini pratik ederek hayata geçirdiğim bu proje; lezzetli yemek tarifleri sergileyen estetik bir web arayüzü ile kişisel geliştirici portfolyomu bir araya getiriyor.
+
+> 🌟 **project.Foot** marks the **very first project in my Front-End development journey!** Built to practice foundational web technologies like HTML5, CSS3, and JavaScript, it combines a sleek culinary gallery with my personal developer portfolio showcase.
+
+---
+
+## 💡 Neler Öğrendim? / Learning Outcomes
+
+Bu ilk projeyi geliştirirken edindiğim temel yetkinlikler:
+
+- 🧱 **HTML5 Yapısı:** Semantik etiketler ve temiz sayfa hiyerarşisi oluşturma.
+- 🎨 **CSS3 & W3.CSS:** Responsive (duyarlı) ızgara sistemleri, özel hover efektleri ve tipografi yönetimi.
+- ⚡ **JavaScript (DOM Manipülasyonu):** İnteraktif yan menü (sidebar) açma/kapama işlevselliği.
+- 🌐 **Web Tasarım Esasları:** Kullanıcı dostu arayüz ve mobil uyumluluk prensipleri.
 
 ---
 
@@ -32,9 +46,9 @@
 
 ## 🛠️ Kullanılan Teknolojiler / Tech Stack
 
-- **HTML5:** Semantik web yapısı ve sayfa düzeni.
-- **CSS3 & W3.CSS:** Tipografi, renk paletleri, flex/grid düzenleri ve Karma Google Fontu.
-- **JavaScript (Vanilla JS):** Menü açma/kapama ve interaktif DOM olayları.
+- **HTML5:** Sayfa yapısı ve içerik kurgusu.
+- **CSS3 & W3.CSS:** Stil yönetimi, renk paletleri ve Karma Google Fontu.
+- **JavaScript (Vanilla JS):** Menü animasyonları ve olay (event) yönetimi.
 
 ---
 
@@ -45,12 +59,12 @@ project.Foot/
 ├── foot.html       # Ana HTML şablonu ve sayfa yapısı
 ├── lınkedn.css     # Özel LinkedIn butonu ve hover efekt stilleri
 ├── README.md       # Proje dokümantasyonu
-└── img/            # Görsel varlıklar (mevcut görseller)
+└── img/            # Projede kullanılan görseller
 ```
 
 ---
 
-## 🚀 Çalıştırma / How to Run
+## 💻 Çalıştırma / How to Run
 
 1. **Repoyu klonlayın:**
    ```bash
@@ -74,4 +88,4 @@ project.Foot/
 
 ## 📄 Lisans / License
 
-Bu proje açık kaynaklı olup, kişisel inceleme ve geliştirme amaçlı kullanılabilir.
+Bu proje açık kaynaklı olup, öğrenme ve gelişim sürecinin bir parçası olarak paylaşılan ilk çalışmamdır.
